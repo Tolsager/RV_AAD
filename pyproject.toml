@@ -17,6 +17,10 @@ classifiers = [
     "Programming Language :: Python :: 3.13",
     "Topic :: Software Development :: Libraries :: Python Modules",
 ]
+dependencies = [
+    "numpy>=2.2.3",
+    "scipy>=1.15.2",
+]
 
 [project.urls]
 Homepage = "https://Tolsager.github.io/rvaad/"
